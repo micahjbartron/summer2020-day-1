@@ -1,0 +1,11 @@
+h1,
+h2,
+h3 {
+  color: cornflowerblue;
+}
+
+.fancy {
+  font-weight: bold;
+  color: green;
+  font-size: 20pt;
+}
